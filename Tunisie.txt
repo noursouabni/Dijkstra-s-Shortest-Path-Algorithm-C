@@ -1,0 +1,10 @@
+0,Ariana,1983,567000,482,5
+1,Tunis,1159,638845212,10 
+2,Sfax,849,318289,776,5
+3,Sousse,800,173047,45,1
+4,Zaghouane,1800,5568,36,10
+Ariana,Tunis:7,Sfax:8
+Tunis,Ariana:7,Sousse:3
+Sfax,Ariana:8
+Sousse,Tunis:3,Zaghouane:4
+Zaghouane,Sousse:4

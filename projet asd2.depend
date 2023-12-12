@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1680555272 source:c:\users\tweety\downloads\projet-asd2\projet asd2\fchemin.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	"FCHEMIN.H"
+
+1680556344 c:\users\tweety\downloads\projet-asd2\projet asd2\fchemin.h
+	"SCHEMIN.h"
+
+1680820015 c:\users\tweety\downloads\projet-asd2\projet asd2\schemin.h
+
+1680819782 source:c:\users\tweety\downloads\projet-asd2\projet asd2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SCHEMIN.h"
+
